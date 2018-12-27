@@ -1,2 +1,2 @@
-# bloom-jewel
-Issue tracker for https://bloom-juery.net
+# Bloom Juery
+This repo works as issue tracker.
